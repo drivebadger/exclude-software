@@ -1,0 +1,32 @@
+AppData/Local/Google/Chrome
+AppData/Local/GoToMeeting
+AppData/Local/WebEx/WebEx
+
+Program Files/GIMP 2
+Program Files/IrfanView
+Program Files/obs-studio
+Program Files/Opera
+Program Files/Paint.NET
+
+Program Files (x86)/Evernote
+Program Files (x86)/K-Lite Codec Pack
+Program Files (x86)/Notepad++
+Program Files (x86)/QNAP/Qfinder
+Program Files (x86)/TeamViewer
+
+Apple/Installer Cache
+Corel/Downloads
+Facebook/Games
+Google/Chrome/Application
+Google/Update
+MAGIX/Movie Edit Pro 2016
+Opera Stable/File System
+WebEx/WebEx/Meetings
+Windows Live/Photo Gallery
+
+MAGIX downloads/*.exe
+MAGIX Downloads/Installationsmanager
+
+slack/app-4.*/
+Temp/*.tmp
+Temp/Outlook Logging/*.etl
