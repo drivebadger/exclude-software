@@ -1,9 +1,9 @@
-AppData/Local/Google/Chrome
 AppData/Local/GoToMeeting
 AppData/Local/WebEx/WebEx
 
 Program Files/Evernote
 Program Files/GIMP 2
+Program Files/Google/Drive File Stream
 Program Files/IrfanView
 Program Files/obs-studio
 Program Files/Opera
@@ -19,6 +19,8 @@ Apple/Installer Cache
 Corel/Downloads
 Facebook/Games
 Google/Chrome/Application
+Google/Chrome/User Data/PepperFlash
+Google/Chrome/User Data/SwReporter
 Google/Update
 MAGIX/Movie Edit Pro 2016
 Opera Stable/File System
