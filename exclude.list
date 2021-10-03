@@ -25,10 +25,12 @@ Google/Update
 MAGIX/Movie Edit Pro 2016
 Opera Stable/File System
 WebEx/WebEx/Meetings
+Zoom/data/Emojis
 
 MAGIX downloads/*.exe
 MAGIX Downloads/Installationsmanager
 
+Discord/app-*/
 slack/app-4.*/
 Temp/*.tmp
 Temp/Outlook Logging/*.etl
