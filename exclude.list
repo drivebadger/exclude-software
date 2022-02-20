@@ -1,38 +1,36 @@
-AppData/Local/GoToMeeting
-AppData/Local/WebEx/WebEx
-
 Program Files/Evernote
-Program Files/GIMP 2
 Program Files/Google/Drive File Stream
 Program Files/IrfanView
-Program Files/obs-studio
+Program Files/Java
+Program Files/LibreOffice
+Program Files/LibreOffice 5
+Program Files/Mozilla Firefox
+Program Files/Mozilla Thunderbird
+Program Files/OpenOffice 4
+Program Files/OpenOffice.org */
 Program Files/Opera
-Program Files/Paint.NET
+Program Files/VideoLAN
 
 Program Files (x86)/Evernote
+Program Files (x86)/Java
 Program Files (x86)/K-Lite Codec Pack
+Program Files (x86)/Mozilla Firefox
+Program Files (x86)/Mozilla Thunderbird
 Program Files (x86)/Notepad++
+Program Files (x86)/OpenOffice 4
+Program Files (x86)/OpenOffice.org */
 Program Files (x86)/QNAP/Qfinder
 Program Files (x86)/TeamViewer
+Program Files (x86)/VideoLAN
 
-Adobe/Common/Media Cache
-Adobe/Common/Media Cache Files
 Apple/Installer Cache
-Corel/Downloads
-Facebook/Games
 Google/Chrome/Application
 Google/Chrome/User Data/PepperFlash
 Google/Chrome/User Data/SwReporter
 Google/Update
-MAGIX/Movie Edit Pro 2016
 Opera Stable/File System
-WebEx/WebEx/Meetings
-Zoom/data/Emojis
+Oracle/Java
+Sun/Java
 
-MAGIX downloads/*.exe
-MAGIX Downloads/Installationsmanager
-
-Discord/app-*/
-slack/app-4.*/
 Temp/*.tmp
 Temp/Outlook Logging/*.etl

@@ -3,12 +3,12 @@ This is an extension for Drive Badger. It provides `exclude.list` file, containi
 The purpose of these exclusions is to decrease the amount of data to be exfiltrated by Drive Badger, and thus to speed up the attack,
 by eliminating files and directories, that are not valuable in any way to the attacker:
 
-- additional browsers: Google Chrome, Opera
-- communication software: Slack, WebEx, GoToMeeting
+- additional browsers: Google Chrome, Opera, Firefox
+- alternative office software: LibreOffice, Mozilla Thunderbird
 - remote work software: TeamViewer
-- multimedia software: Corel, Gimp, IrfanView, Paint.NET, Windows Live, movie codecs
-- movie streaming/editing software: MAGIX, OBS Studio
+- multimedia viewers: IrfanView, VLC, movie codecs
 - productivity software: Evernote, Notepad++
+- Java
 
 ### Installing
 
